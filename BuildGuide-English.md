@@ -4,7 +4,7 @@
 
 * 1x This PCB (contains top and bottom plates and main PCB)
 * 1x Pro Micro, Elite-C, or any clone with identical pinout
-* 4x M2 Standoffs, 14mm
+* 4x M2 Standoffs, 12~14mm
 * 8x M2 screws for the standoffs
 * 20x Diodes, 1N4148 
 * 17-20x Cherry MX compatible switches, depending on layout
