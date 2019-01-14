@@ -8,5 +8,5 @@ A single-PCB numpad kit
 [日本語](https://github.com/ai03-2725/Soyuz/blob/master/BuildGuide-Japanese.md)
 
 ### Customizing guide for vendors
-[English]()
-[日本語]()
+[English](https://github.com/ai03-2725/Soyuz/blob/master/VendorGuide-English.md)
+[日本語](https://github.com/ai03-2725/Soyuz/blob/master/VendorGuide-Japanese.md)
