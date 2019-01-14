@@ -756,4 +756,137 @@ Text GLabel 3800 3625 0    50   Input ~ 0
 COL2
 Text GLabel 3800 3925 0    50   Input ~ 0
 COL3
+$Comp
+L power:GNDA #PWR0104
+U 1 1 5C49985F
+P 4925 4750
+F 0 "#PWR0104" H 4925 4500 50  0001 C CNN
+F 1 "GNDA" H 4930 4577 50  0000 C CNN
+F 2 "" H 4925 4750 50  0001 C CNN
+F 3 "" H 4925 4750 50  0001 C CNN
+	1    4925 4750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 MOUSEBITE1
+U 1 1 5C499B50
+P 4650 5250
+F 0 "MOUSEBITE1" H 4729 5292 50  0000 L CNN
+F 1 "Mousebites" H 4729 5201 50  0000 L CNN
+F 2 "random-keyboard-parts:breakaway-mousebites" H 4650 5250 50  0001 C CNN
+F 3 "~" H 4650 5250 50  0001 C CNN
+	1    4650 5250
+	1    0    0    -1  
+$EndComp
+NoConn ~ 4450 5250
+$Comp
+L Connector_Generic:Conn_01x01 MOUSEBITE2
+U 1 1 5C49B62F
+P 4650 5425
+F 0 "MOUSEBITE2" H 4729 5467 50  0000 L CNN
+F 1 "Mousebites" H 4729 5376 50  0000 L CNN
+F 2 "random-keyboard-parts:breakaway-mousebites" H 4650 5425 50  0001 C CNN
+F 3 "~" H 4650 5425 50  0001 C CNN
+	1    4650 5425
+	1    0    0    -1  
+$EndComp
+NoConn ~ 4450 5425
+$Comp
+L Connector_Generic:Conn_01x01 MOUSEBITE3
+U 1 1 5C49CE4E
+P 4650 5600
+F 0 "MOUSEBITE3" H 4729 5642 50  0000 L CNN
+F 1 "Mousebites" H 4729 5551 50  0000 L CNN
+F 2 "random-keyboard-parts:breakaway-mousebites" H 4650 5600 50  0001 C CNN
+F 3 "~" H 4650 5600 50  0001 C CNN
+	1    4650 5600
+	1    0    0    -1  
+$EndComp
+NoConn ~ 4450 5600
+$Comp
+L Connector_Generic:Conn_01x01 MOUSEBITE4
+U 1 1 5C49CE56
+P 4650 5775
+F 0 "MOUSEBITE4" H 4729 5817 50  0000 L CNN
+F 1 "Mousebites" H 4729 5726 50  0000 L CNN
+F 2 "random-keyboard-parts:breakaway-mousebites" H 4650 5775 50  0001 C CNN
+F 3 "~" H 4650 5775 50  0001 C CNN
+	1    4650 5775
+	1    0    0    -1  
+$EndComp
+NoConn ~ 4450 5775
+$Comp
+L Connector_Generic:Conn_01x01 MOUSEBITE5
+U 1 1 5C4A007C
+P 4650 5950
+F 0 "MOUSEBITE5" H 4729 5992 50  0000 L CNN
+F 1 "Mousebites" H 4729 5901 50  0000 L CNN
+F 2 "random-keyboard-parts:breakaway-mousebites" H 4650 5950 50  0001 C CNN
+F 3 "~" H 4650 5950 50  0001 C CNN
+	1    4650 5950
+	1    0    0    -1  
+$EndComp
+NoConn ~ 4450 5950
+$Comp
+L Connector_Generic:Conn_01x01 MOUSEBITE6
+U 1 1 5C4A0084
+P 4650 6125
+F 0 "MOUSEBITE6" H 4729 6167 50  0000 L CNN
+F 1 "Mousebites" H 4729 6076 50  0000 L CNN
+F 2 "random-keyboard-parts:breakaway-mousebites" H 4650 6125 50  0001 C CNN
+F 3 "~" H 4650 6125 50  0001 C CNN
+	1    4650 6125
+	1    0    0    -1  
+$EndComp
+NoConn ~ 4450 6125
+$Comp
+L Connector_Generic:Conn_01x01 MOUSEBITE7
+U 1 1 5C4A008C
+P 4650 6300
+F 0 "MOUSEBITE7" H 4729 6342 50  0000 L CNN
+F 1 "Mousebites" H 4729 6251 50  0000 L CNN
+F 2 "random-keyboard-parts:breakaway-mousebites" H 4650 6300 50  0001 C CNN
+F 3 "~" H 4650 6300 50  0001 C CNN
+	1    4650 6300
+	1    0    0    -1  
+$EndComp
+NoConn ~ 4450 6300
+$Comp
+L Connector_Generic:Conn_01x01 MOUSEBITE8
+U 1 1 5C4A0094
+P 4650 6475
+F 0 "MOUSEBITE8" H 4729 6517 50  0000 L CNN
+F 1 "Mousebites" H 4729 6426 50  0000 L CNN
+F 2 "random-keyboard-parts:breakaway-mousebites" H 4650 6475 50  0001 C CNN
+F 3 "~" H 4650 6475 50  0001 C CNN
+	1    4650 6475
+	1    0    0    -1  
+$EndComp
+NoConn ~ 4450 6475
+$Comp
+L Connector_Generic:Conn_01x02 O1
+U 1 1 5C4A1AC0
+P 5450 4650
+F 0 "O1" H 5529 4642 50  0000 L CNN
+F 1 "Outline" H 5529 4551 50  0000 L CNN
+F 2 "locallib:outline" H 5450 4650 50  0001 C CNN
+F 3 "~" H 5450 4650 50  0001 C CNN
+	1    5450 4650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4925 4750 5250 4750
+$Comp
+L power:Earth #PWR?
+U 1 1 5C4A357E
+P 4750 4650
+F 0 "#PWR?" H 4750 4400 50  0001 C CNN
+F 1 "Earth" H 4750 4500 50  0001 C CNN
+F 2 "" H 4750 4650 50  0001 C CNN
+F 3 "~" H 4750 4650 50  0001 C CNN
+	1    4750 4650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5250 4650 4750 4650
 $EndSCHEMATC
