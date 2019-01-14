@@ -740,6 +740,4 @@ Text GLabel 6750 5175 0    50   Input ~ 0
 ROW4
 Text GLabel 3800 3425 0    50   Input ~ 0
 ROW0
-Text GLabel 3800 3525 0    50   Input ~ 0
-ROW1
 $EndSCHEMATC
