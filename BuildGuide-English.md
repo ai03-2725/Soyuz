@@ -12,7 +12,7 @@
 * 1x 6x6mm push button for reset
 * 4x Rubber adhesive feet
 * Keycaps to cover the numpad
-* USB cable
+* USB cable  
 
 ### Instructions
 
@@ -27,4 +27,9 @@
 9. Screw the standoffs on each corner of the top plate.
 10. Screw the bottom plate onto the rest.
 11. Tack on the rubber feet.
-12. Mount keycaps. Enjoy!
+12. Mount keycaps. Enjoy!  
+
+### Video Guides
+
+SpaceCat Design:  
+[![Video by SpaceCat Design](http://img.youtube.com/vi/LFRCjzilOcM/0.jpg)](https://www.youtube.com/watch?v=LFRCjzilOcM)

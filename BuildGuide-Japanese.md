@@ -12,7 +12,7 @@
 * 1x 6x6mmリセットボタン
 * 4x ゴム足
 * キーキャップ
-* USBケーブル
+* USBケーブル  
 
 ### 組み立て方
 
@@ -27,4 +27,9 @@
 9. スペーサーをスイッチプレートの四隅にネジ止めします。
 10. 下プレートをネジ止めします。
 11. ゴム足を付けます。
-12. キーキャップを載せて完成です。
+12. キーキャップを載せて完成です。  
+
+### 組み立てビデオ
+
+SpaceCat Design:  
+[![Video by SpaceCat Design](http://img.youtube.com/vi/LFRCjzilOcM/0.jpg)](https://www.youtube.com/watch?v=LFRCjzilOcM)
