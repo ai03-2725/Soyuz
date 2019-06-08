@@ -29,6 +29,18 @@
 11. Tack on the rubber feet.
 12. Mount keycaps. Enjoy!  
 
+### Building the Firmware
+
+For beginners:
+* Use [QMK Configurator](https://config.qmk.fm/#/ai03/soyuz/LAYOUT_ortho_5x4)
+
+For experts:
+* [Compile from source](https://github.com/qmk/qmk_firmware/tree/master/keyboards/ai03/soyuz)
+
+### Flashing the firmware
+
+Using [QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases) is recommended.
+
 ### Video Guides
 
 SpaceCat Design:  

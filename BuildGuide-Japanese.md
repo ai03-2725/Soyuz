@@ -29,6 +29,18 @@
 11. ゴム足を付けます。
 12. キーキャップを載せて完成です。  
 
+### ファームウエアの作成
+
+初心者向け：
+* [QMK Configurator](https://config.qmk.fm/#/ai03/soyuz/LAYOUT_ortho_5x4)を使用
+
+玄人向け：
+* [ソースからコンパイル](https://github.com/qmk/qmk_firmware/tree/master/keyboards/ai03/soyuz)
+
+### ファームウエアの書き込み
+
+[QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases)を使用することをお勧めします。
+
 ### 組み立てビデオ
 
 SpaceCat Design:  
