@@ -14,3 +14,8 @@ A single-PCB numpad kit
 ### Customizing guide for vendors
 [English](https://github.com/ai03-2725/Soyuz/blob/master/VendorGuide-English.md)
 [日本語](https://github.com/ai03-2725/Soyuz/blob/master/VendorGuide-Japanese.md)
+
+### Purchasing
+If you don't wish to go through the hassle of ordering direct from a fab using gerbers, the board is available for sale at the following:  
+* [Spacecat Design](https://spacecat.design/collections/pcbs-cases-kits/products/soyuz-number-pad-kit)
+* Yusha Kobo (Available for sale at the physical storefront)
